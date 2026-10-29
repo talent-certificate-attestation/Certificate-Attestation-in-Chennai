@@ -18,7 +18,7 @@ Before starting, confirm these details:
 - Whether preliminary verification is required.
 - Whether original documents, certified copies or translations are necessary.
 
-The Ministry of External Affairs (MEA) explains the distinction between apostille and normal attestation in its [official attestation guidance](https://www.mea.gov.in/apostille-menu.htm). An apostille is intended for eligible documents used in countries covered by the Hague Apostille Convention; normal attestation applies where apostille is not accepted. <Cite refs={["turn757087search0","turn757087search1"]}/>
+The Ministry of External Affairs (MEA) explains the distinction between apostille and normal attestation in its [official attestation guidance. An apostille is intended for eligible documents used in countries covered by the Hague Apostille Convention; normal attestation applies where apostille is not accepted.
 
 ## Which Documents May Require Authentication?
 
@@ -80,8 +80,7 @@ Check whether translations, notarisation or certified copies are required. Avoid
 
 Some documents require preliminary verification by a designated authority before they can be submitted for further authentication. Other eligible documents may be processed through an applicable digital verification route.
 
-The MEA's [e-Sanad portal](https://esanad.nic.in/) provides online document verification and attestation services for eligible documents available through its supported process. Eligibility depends on the document and the issuing authority's participation. <Cite refs={["turn757087search1","turn757087search2"]}/>
-
+The MEA's e-Sanad portal provides online document verification and attestation services for eligible documents available through its supported process. Eligibility depends on the document and the issuing authority's participation. 
 ### Step 6: Review the Submission Before Processing
 
 Before handing over your documents, confirm that the application is complete and that the selected route matches the destination country's requirements.
@@ -126,7 +125,7 @@ Educational certificates, birth and marriage certificates, affidavits and commer
 
 ### 3. Is apostille the same as normal attestation?
 
-No. Apostille is used for eligible documents intended for countries covered by the Hague Apostille Convention. Normal attestation applies where apostille is not accepted. Always verify the destination country's requirements. <Cite refs={["turn757087search0","turn757087search1"]}/>
+No. Apostille is used for eligible documents intended for countries covered by the Hague Apostille Convention. Normal attestation applies where apostille is not accepted. Always verify the destination country's requirements. 
 
 ### 4. Do all certificates require preliminary verification?
 
